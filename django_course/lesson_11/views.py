@@ -4,8 +4,8 @@ from django.shortcuts import render
 
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'lesson_1_1/index.html')
 
-def about(request):
+def hello(request):
     print(request)
-    return HttpResponse("Hello, world. You're about.")
+    return HttpResponse("Hello, World!")
