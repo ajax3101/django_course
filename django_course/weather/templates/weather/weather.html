@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Weather for {{ city }}</title>
+    <title>Weather for {{ city|upper }}</title>
 </head>
 <body>
-    <h1>Weather for {{ city }}, {{ country }}</h1>
+    <h1>Weather for {{ city|capfirst }}, {{ country }}</h1>
     <p>Coords: {{ coords }}</p>
     <p>Weather: {{ weather }}</p>
-    <p>Temp: {{ temp }}</p>
+    <p>Temp: {{ temp }}° C</p>
 </body>
 </html>

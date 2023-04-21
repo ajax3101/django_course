@@ -1,12 +1,8 @@
-from django.urls import path, re_path
-from dz_2 import views
-
-
+from django.urls import path, include
+from . import views
 
 urlpatterns = [
-    path('', views.index, name='index'),
-    re_path(r'^about/', views.about),
-    re_path(r'^contact/', views.contact),
-    re_path(r'^form/', views.form),
-
+    path('home/', views.home, name='home-view'),
+    path('book/<str:title>/', views.book, name='book'),
+    path('lesson_2/', include('lesson_2.urls')),
 ]
