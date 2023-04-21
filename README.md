@@ -2,15 +2,13 @@
 курсы Django от CyberBionic
 
 
-Выполнено задание №2:
+[Выполнено задание №2:](https://github.com/ajax3101/django_course/blob/main/task/Django_UA_%20DZ_2.pdf)
 
 Завдання 1 - папка dz_2  
 
 Завдання 2 - папка dz_2_2
 
 Завдання 3 - папка weather
-
-!Выполнено задание №2[Выполнено задание №2](https://github.com/ajax3101/django_course/blob/main/task/Django_UA_%20DZ_2.pdf)
 
 Клонируем репо
 
