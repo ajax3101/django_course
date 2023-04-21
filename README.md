@@ -10,7 +10,7 @@
 
 Завдання 3 - папка weather
 
-!Выполнено задание №2[Выполнено задание №2](task/Django_UA_ DZ_2.pdf)
+!Выполнено задание №2[Выполнено задание №2](https://github.com/ajax3101/django_course/blob/main/task/Django_UA_%20DZ_2.pdf)
 
 Клонируем репо
 
