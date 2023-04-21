@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'lesson_3',
     'lesson_5',
     'dz_2',
+    'dz_2_2',
     'weather',
 
 ]
