@@ -3,16 +3,19 @@
 
 
 Выполнено задание №2:
+
 Завдання 1 - папка dz_2  
+
 Завдання 2 - папка dz_2_2
+
 Завдання 3 - папка weather
 
-!Выполнено задание №2[Выполнено задание №2](/Django_UA_ DZ_2.pdf)
+!Выполнено задание №2[Выполнено задание №2](task/Django_UA_ DZ_2.pdf)
 
 Клонируем репо
 
 ```bash
-git clone https://github.com/ajax3101/blog_drf.git
+git clone https://github.com/ajax3101/django_course.git
 ```
 
 Устанавливаем и активируем виртуальное окружение
